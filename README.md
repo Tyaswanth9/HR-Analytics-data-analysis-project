@@ -92,7 +92,7 @@ The dataset includes the following 2 files:
  ## Dashboard images:
  ## HR Analytics Dashboard Image:
  
- ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/si.png) 
+ ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/sm.png) 
  
  ## Employeess wise  analysis Dashboard image:
  
