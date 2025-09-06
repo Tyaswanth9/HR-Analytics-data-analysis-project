@@ -136,19 +136,20 @@ The dataset includes the following 2 files:
 ## Dashboard images:
  ## HR Analytics Dashboard Image:
  
- ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardes.png) 
+ ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/sp1M.png) 
  
  ## Employeess wise  analysis Dashboard image:
  
- ![Employeess wise  analysis Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardep.png)  
+ ![Employeess wise  analysis Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/sP2E.png)  
  
  ## Attrition rate wise  analysis Dashboard image:
  
- ![Attrition rate wise  analysis Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardepro.png)
+ ![Attrition rate wise  analysis Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/sP3A.png
+)
  
  ## Monthly income analysis Dashboard image:
  
- ![Monthly income analysis Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardepro.png)
+ ![Monthly income analysis Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/s4.png)
 
  ##  What i did
 
