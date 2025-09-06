@@ -100,11 +100,11 @@ The dataset includes the following 2 files:
  
  ## Attrition rate wise  analysis Dashboard image:
  
- ![Attrition rate wise  analysis Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardepro.png)
+ ![Attrition rate wise  analysis Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/sa.png)
  
  ## Monthly income analysis Dashboard image:
  
- ![Monthly income analysis Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardepro.png)
+ ![Monthly income analysis Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/si.png)
  
 
 
