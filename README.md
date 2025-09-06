@@ -65,7 +65,7 @@ The dataset includes the following 2 files:
 
 ## Data modeling:
 
-![datamodeling](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/data.png)
+![datamodeling](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/data%20moddeling.png)
 
 ---
 
@@ -92,7 +92,7 @@ The dataset includes the following 2 files:
  ## Dashboard images:
  ## HR Analytics Dashboard Image:
  
- ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardes.png) 
+ ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/si.png) 
  
  ## Employeess wise  analysis Dashboard image:
  
