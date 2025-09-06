@@ -94,9 +94,6 @@ The dataset includes the following 2 files:
  
  ![HR Analytics Dashboard Image](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project/blob/myself/sm.png) 
  
- ## Employeess wise  analysis Dashboard image:
- 
- ![Employeess wise  analysis Image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/dashboardep.png)  
  
  ## Attrition rate wise  analysis Dashboard image:
  
